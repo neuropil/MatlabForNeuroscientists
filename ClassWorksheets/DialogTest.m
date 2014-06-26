@@ -1,4 +1,4 @@
-DialogTest
+%DialogTest
 
 % button = questdlg('qstring','title','str1','str2',default)
 
